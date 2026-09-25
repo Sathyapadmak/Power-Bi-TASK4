@@ -194,7 +194,7 @@ To open and view this project:
 All screenshots related to the project are stored inside the "screenshots" folder.
 
 Example:
-<<"C:\Users\Sathya Padma\OneDrive\Pictures\Screenshots\Screenshot 2026-09-25 131307.png">>
+<img width="1917" height="972" alt="Screenshot 2026-09-25 131307" src="https://github.com/user-attachments/assets/0016ff91-633b-45ed-8f6b-9b47f1ce283d" />
 ---
 
 💡 Project Outcome
